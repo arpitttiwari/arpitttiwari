@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/blackxstallion_" target="blank"><img src="https://img.shields.io/twitter/follow/blackxstallion_?logo=twitter&style=for-the-badge" alt="blackxstallion_" /></a> </p>
 
-- 🔭 I’m currently working on **applying Differential Privacy to an insurance dataset.**
+- 🔭 I’m currently working on **developing and deploying production level ML Model code.**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, MLOps and Computer Vision.**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning Projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@arpittiwari757](https://medium.com/@arpittiwari757)
 
-- 💬 Ask me about **Data Visualisation, Big Data and Responsible and Ethical AI**
+- 💬 Ask me about **Data Visualisation, Big Data and Responsible and Ethical AI, Machine Learning and Deep Learning.**
 
 - 📫 How to reach me **arpittiwari757@gmail.com**
 
